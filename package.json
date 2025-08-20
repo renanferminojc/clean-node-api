@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@biomejs/biome": "2.2.0",
     "@types/jest": "^30.0.0",
     "@types/node": "^24.3.0",
     "git-commit-msg-linter": "^5.0.8",
@@ -20,7 +21,6 @@
     "jest": "^30.0.5",
     "lint-staged": "^16.1.5",
     "ts-jest": "^29.4.1",
-    "ts-standard": "^12.0.2",
     "typescript": "^5.9.2"
   }
 }
