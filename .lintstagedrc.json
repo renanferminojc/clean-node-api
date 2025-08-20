@@ -1,0 +1,6 @@
+{
+    "*.ts": [
+        "ts-standard 'src/**' --fix",
+        "git add"
+    ]
+}
